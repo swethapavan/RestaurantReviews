@@ -1,0 +1,6 @@
+C:\TrueFitService\TrueFit.Core\obj\Debug\TrueFit.Core.csprojResolveAssemblyReference.cache
+C:\TrueFitService\TrueFit.Core\bin\Debug\TrueFit.Core.dll
+C:\TrueFitService\TrueFit.Core\bin\Debug\TrueFit.Core.pdb
+C:\TrueFitService\TrueFit.Core\obj\Debug\TrueFit.Core.dll
+C:\TrueFitService\TrueFit.Core\obj\Debug\TrueFit.Core.pdb
+C:\TrueFitService\TrueFit.Core\bin\Debug\TrueFit.Core.dll.config

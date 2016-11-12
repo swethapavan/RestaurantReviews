@@ -1,0 +1,14 @@
+C:\TrueFitService\TrueFit.Infrastructure\obj\Debug\TrueFit.Infrastructure.csprojResolveAssemblyReference.cache
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\TrueFit.Infrastructure.dll.config
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\TrueFit.Infrastructure.dll
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\TrueFit.Infrastructure.pdb
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\EntityFramework.dll
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\log4net.dll
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\TrueFit.Core.dll
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\TrueFit.Core.pdb
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\EntityFramework.xml
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\TrueFitService\TrueFit.Infrastructure\bin\Debug\log4net.xml
+C:\TrueFitService\TrueFit.Infrastructure\obj\Debug\TrueFit.Infrastructure.dll
+C:\TrueFitService\TrueFit.Infrastructure\obj\Debug\TrueFit.Infrastructure.pdb
